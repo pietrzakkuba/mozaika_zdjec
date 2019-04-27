@@ -1,0 +1,6 @@
+krótko: Python, Flask, Pillow, requests
+
+Do implementacji usługi został wykorzystany język Python
+Usługę wykonałem w oparciu o framework Flask, jego instalacja jest konieczna do działania aplikacji. Instrukcję instalacji można znaleźć chociażby w dokumentacji: http://flask.pocoo.org/docs/1.0/installation/ . Ja, pisząc kod, korzystałem z środowiska PyCharm, które dokonało tej instalacji automatycznie.
+Do przetwarzania obrazów wykorzystałem bibliotekę Pillow, instrukjca instalacji: https://pillow.readthedocs.io/en/stable/installation.html
+Do pobierania obrazów wykorzystałem funkcję get z biblioteki requests
